@@ -1,0 +1,8 @@
+s3-authenticatedusers-access:
+  - bucket-ccoreo_audit_bkt_elb: ""
+  - bucket-cloudcoreo-omurbek-test-s3-bucket-name5: "2017-01-10T00:00Z"
+  - cc-test-elb-logs: "2017-10-10T00:00Z"
+
+# Suppression times (optional) use ISO date formats according to this template:
+#
+# YYYY-MM-DDTHH:mm:ss.sssZ
